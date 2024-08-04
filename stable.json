@@ -1,0 +1,14 @@
+{
+    "app": {
+      "version": "2.4.4",
+      "versionCode": 1897,
+      "extra": {
+        "target": 34,
+        "min": 24,
+        "compile": 34,
+        "packageSize": 4193743
+      },
+      "link": "https://github.com/LibChecker/LibChecker/releases/download/2.4.4/LibChecker-2.4.4.167126b8-1897-foss-release.apk",
+      "note": "https://github.com/LibChecker/LibChecker/releases/download/changelogs.md"
+    }
+  }
