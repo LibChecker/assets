@@ -8,7 +8,6 @@
         "compile": 35,
         "packageSize": 4406358
       },
-      "link": "https://github.com/LibChecker/LibChecker/releases/download/2.4.4/LibChecker-2.4.4.167126b8-1897-foss-release.apk",
-      "note": "https://github.com/LibChecker/LibChecker/releases/download/changelogs.md"
+      "link": "https://jsdelivr.b-cdn.net/gh/LibChecker/assets@ci/app-release.apk"
     }
   }
