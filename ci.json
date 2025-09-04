@@ -1,7 +1,7 @@
 {
   "app": {
-    "version": "2.5.2.dev.c680437",
-    "versionCode": 2434,
+    "version": "2.5.2.dev.a855996",
+    "versionCode": 2435,
     "extra": {
       "target": 36,
       "min": 24,
