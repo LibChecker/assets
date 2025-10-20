@@ -1,12 +1,12 @@
 {
   "app": {
-    "version": "2.5.3.dev.886b68f",
-    "versionCode": 2468,
+    "version": "2.5.3.dev.4f5abf2",
+    "versionCode": 2470,
     "extra": {
       "target": 36,
       "min": 24,
       "compile": 36,
-      "packageSize": 4932795
+      "packageSize": 4932299
     },
     "link": "https://jsdelivr.b-cdn.net/gh/LibChecker/assets@ci/app-release.apk"
   }
