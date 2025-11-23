@@ -1,14 +1,14 @@
 {
     "app": {
-      "version": "2.5.2",
-      "versionCode": 2441,
+      "version": "2.5.3",
+      "versionCode": 2515,
       "extra": {
         "target": 36,
         "min": 24,
         "compile": 36,
-        "packageSize": 4922874
+        "packageSize": 4908801
       },
-      "link": "https://github.com/LibChecker/LibChecker/releases/download/2.5.2/LibChecker-2.5.2.985368c-2441-foss-release.apk",
+      "link": "https://github.com/LibChecker/LibChecker/releases/download/2.5.3/LibChecker-2.5.3.3f5abd2-2515-foss-release.apk",
       "note": "https://github.com/LibChecker/LibChecker/releases"
     }
   }
