@@ -1,14 +1,14 @@
 {
-    "app": {
-      "version": "2.5.3",
-      "versionCode": 2515,
-      "extra": {
-        "target": 36,
-        "min": 24,
-        "compile": 36,
-        "packageSize": 4908801
-      },
-      "link": "https://github.com/LibChecker/LibChecker/releases/download/2.5.3/LibChecker-2.5.3.3f5abd2-2515-foss-release.apk",
-      "note": "https://github.com/LibChecker/LibChecker/releases"
-    }
+  "app": {
+    "version": "2.5.4",
+    "versionCode": 2671,
+    "extra": {
+      "target": 37,
+      "min": 24,
+      "compile": 37,
+      "packageSize": 4779938
+    },
+    "link": "https://github.com/LibChecker/LibChecker/releases/download/2.5.4/LibChecker-2.5.4.5696014-2671-foss-release.apk",
+    "note": "https://github.com/LibChecker/LibChecker/releases"
   }
+}
