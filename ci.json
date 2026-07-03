@@ -1,13 +1,13 @@
 {
   "app": {
-    "version": "2.5.5.dev.b5ea3c6",
-    "versionCode": 2696,
+    "version": "2.5.5.dev.d1a5aa6",
+    "versionCode": 2699,
     "extra": {
       "target": 37,
       "min": 24,
       "compile": 37,
-      "packageSize": 4343695
+      "packageSize": 4343571
     },
-    "link": "https://jsdelivr.b-cdn.net/gh/LibChecker/assets@ci/app-release.apk"
+    "link": "https://gh.absinthe.life/github.com/LibChecker/assets/raw/refs/heads/ci/app-release.apk"
   }
 }
