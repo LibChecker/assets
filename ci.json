@@ -1,7 +1,7 @@
 {
   "app": {
-    "version": "2.5.5.dev.cdb2a80",
-    "versionCode": 2767,
+    "version": "2.5.5.dev.699233b",
+    "versionCode": 2768,
     "extra": {
       "target": 37,
       "min": 24,
@@ -12,8 +12,8 @@
   },
   "flavors": {
     "foss": {
-      "version": "2.5.5.dev.cdb2a80",
-      "versionCode": 2767,
+      "version": "2.5.5.dev.699233b",
+      "versionCode": 2768,
       "extra": {
         "target": 37,
         "min": 24,
@@ -23,8 +23,8 @@
       "link": "https://gh.absinthe.life/github.com/LibChecker/assets/raw/refs/heads/ci/app-release.apk"
     },
     "market": {
-      "version": "2.5.5.dev.cdb2a80",
-      "versionCode": 2767,
+      "version": "2.5.5.dev.699233b",
+      "versionCode": 2768,
       "extra": {
         "target": 37,
         "min": 24,
