@@ -1,35 +1,35 @@
 {
   "app": {
-    "version": "2.5.5.dev.d0d2f7b",
-    "versionCode": 2899,
+    "version": "2.5.5.dev.625c4ec",
+    "versionCode": 2905,
     "extra": {
       "target": 37,
       "min": 24,
       "compile": 37,
-      "packageSize": 4183254
+      "packageSize": 4249232
     },
     "link": "https://gh.absinthe.life/github.com/LibChecker/assets/raw/refs/heads/ci/app-release.apk"
   },
   "flavors": {
     "foss": {
-      "version": "2.5.5.dev.d0d2f7b",
-      "versionCode": 2899,
+      "version": "2.5.5.dev.625c4ec",
+      "versionCode": 2905,
       "extra": {
         "target": 37,
         "min": 24,
         "compile": 37,
-        "packageSize": 4183254
+        "packageSize": 4249232
       },
       "link": "https://gh.absinthe.life/github.com/LibChecker/assets/raw/refs/heads/ci/app-release.apk"
     },
     "market": {
-      "version": "2.5.5.dev.d0d2f7b",
-      "versionCode": 2899,
+      "version": "2.5.5.dev.625c4ec",
+      "versionCode": 2905,
       "extra": {
         "target": 37,
         "min": 24,
         "compile": 37,
-        "packageSize": 4816852
+        "packageSize": 4883150
       },
       "link": "https://gh.absinthe.life/github.com/LibChecker/assets/raw/refs/heads/ci/app-market-release.apk"
     }
