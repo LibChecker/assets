@@ -1,39 +1,39 @@
 {
   "app": {
-    "version": "2.5.5",
-    "versionCode": 2954,
+    "version": "2.5.5.1",
+    "versionCode": 2955,
     "extra": {
       "target": 37,
       "min": 24,
       "compile": 37,
-      "packageSize": 4305921
+      "packageSize": 4302969
     },
-    "link": "https://gh.absinthe.life/github.com/LibChecker/LibChecker/releases/download/2.5.5/LibChecker-2.5.5.a0b9313-2954-foss-release.apk",
+    "link": "https://gh.absinthe.life/github.com/LibChecker/LibChecker/releases/download/2.5.5.1/LibChecker-2.5.5.1.2a0850a-2955-foss-release.apk",
     "note": "https://github.com/LibChecker/LibChecker/releases"
   },
   "flavors": {
     "foss": {
-      "version": "2.5.5",
-      "versionCode": 2954,
+      "version": "2.5.5.1",
+      "versionCode": 2955,
       "extra": {
         "target": 37,
         "min": 24,
         "compile": 37,
-        "packageSize": 4305921
+        "packageSize": 4302969
       },
-      "link": "https://gh.absinthe.life/github.com/LibChecker/LibChecker/releases/download/2.5.5/LibChecker-2.5.5.a0b9313-2954-foss-release.apk",
+      "link": "https://gh.absinthe.life/github.com/LibChecker/LibChecker/releases/download/2.5.5.1/LibChecker-2.5.5.1.2a0850a-2955-foss-release.apk",
       "note": "https://github.com/LibChecker/LibChecker/releases"
     },
     "market": {
-      "version": "2.5.5",
-      "versionCode": 2954,
+      "version": "2.5.5.1",
+      "versionCode": 2955,
       "extra": {
         "target": 37,
         "min": 24,
         "compile": 37,
-        "packageSize": 4932107
+        "packageSize": 4932075
       },
-      "link": "https://gh.absinthe.life/github.com/LibChecker/LibChecker/releases/download/2.5.5/LibChecker-2.5.5.a0b9313-2954-market-release.apk",
+      "link": "https://gh.absinthe.life/github.com/LibChecker/LibChecker/releases/download/2.5.5.1/LibChecker-2.5.5.1.2a0850a-2955-market-release.apk",
       "note": "https://github.com/LibChecker/LibChecker/releases"
     }
   }
